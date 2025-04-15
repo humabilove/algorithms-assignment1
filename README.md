@@ -1,9 +1,10 @@
-# CSE331 Sorting Algorithm Benchmark
+# CSE331 Sorting Algorithm Assignment
 
 ## Overview
 This repository contains an extensive implementation of **12 sorting algorithms** (6 basic and 6 advanced) in C++, along with a benchmarking suite. The purpose of this project is to compare each algorithm’s performance on various dataset sizes (1,000 ~ 1,000,000) and data distributions (Ascending, Descending, Random, Partially Sorted). 
 
 ## Project Structure
+.
 ├── README.md                         # This file
 ├── Makefile                          # Build configuration
 ├── scripts
